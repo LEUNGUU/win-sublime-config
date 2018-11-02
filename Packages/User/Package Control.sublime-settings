@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoPEP8",
+		"Boxy Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeTmpl",
+		"Terraform"
+	]
+}

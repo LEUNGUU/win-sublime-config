@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_face": "Source Code Pro Medium",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_accent_tangerine": true,
+	"theme_button_rounded": true,
+	"theme_font_xl": true,
+	"theme_icons_flat": true,
+	"theme_icons_materialized": true,
+	"theme_sidebar_font_xl": true,
+	"theme_sidebar_indent_md": true,
+	"theme_size_xs": true,
+	"theme_unified": true,
+	"translate_tabs_to_spaces": true
+}
