@@ -1,6 +1,5 @@
 {
-	"auto_complete": false,
-	"auto_complete_commit_on_tab": true,
+	"auto_complete": true,
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
@@ -56,7 +55,7 @@
 	"theme_icons_flat": true,
 	"theme_icons_materialized": true,
 	"theme_sidebar_font_xl": true,
-	"theme_sidebar_indent_md": true,
+	"theme_sidebar_indent_lg": true,
 	"theme_size_xs": true,
 	"theme_unified": true,
 	"translate_tabs_to_spaces": true,
