@@ -1,23 +1,24 @@
 {
 	"folder_history":
 	[
+		"/C/Users/eemnorr/ecf-deployment-solution",
+		"/C/Users/eemnorr/keycloak",
+		"/C/Users/eemnorr/ecf-lab-info",
+		"/C/Users/eemnorr/ecf-infrastructure-codes",
+		"/C/Users/eemnorr/ecf-devops-tools",
 		"/C/Users/eemnorr/ecf-devops-common",
 		"/C/Users/eemnorr/Desktop/ansible_master",
 		"/C/Users/eemnorr/douban-renting-house-tool",
-		"/C/Users/eemnorr/ecf-deployment-solution",
 		"/C/Users/eemnorr/Desktop/postfix",
 		"/C/Users/eemnorr/Desktop/LearningPythonDesignPatternsSecondEdition_CODE",
-		"/C/Users/eemnorr/ecf-devops-tools",
-		"/C/Users/eemnorr/ecf-infrastructure-codes",
-		"/C/Users/eemnorr/ecf-lab-info",
 		"/C/Users/eemnorr/ecf-continuous-deployment"
 	],
 	"last_version": 3176,
-	"last_window_id": 30,
+	"last_window_id": 36,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 977.0,
+		"new_window_height": 708.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -25,364 +26,113 @@
 				"selected_items":
 				[
 					[
-						"terra",
-						"terra_code"
+						"load",
+						"load_yaml\tfunction"
 					],
 					[
-						"clo",
-						"cloud-user"
+						"sms",
+						"sms_msg\tstatement"
 					],
 					[
-						"Bas",
+						"webho",
+						"webhook\tstatement"
+					],
+					[
+						"W",
+						"WebHook\tclass"
+					],
+					[
+						"parse",
+						"parse_args\tfunction"
+					],
+					[
+						"read",
+						"readlines\tfunction"
+					],
+					[
+						"file",
+						"file_path\tparam"
+					],
+					[
+						"send",
+						"send_wechat\tfunction"
+					],
+					[
+						"notify",
+						"notify_flag\tstatement"
+					],
+					[
+						"notif",
+						"notify_logger"
+					],
+					[
+						"wecha",
+						"wechat_url"
+					],
+					[
+						"find",
+						"find_all\tfunction"
+					],
+					[
+						"invento",
+						"inventory_dict\tstatement"
+					],
+					[
+						"inven",
+						"inventory_dict\tstatement"
+					],
+					[
+						"_load",
+						"_load_consul_key\tfunction"
+					],
+					[
+						"Con",
+						"CONSUL_DEFAULT_KEY_PREFIX\tstatement"
+					],
+					[
+						"print",
+						"print_inventory\tfunction"
+					],
+					[
+						"noti",
+						"notify_logger\tstatement"
+					],
+					[
+						"notfi",
+						"notify_logger\tstatement"
+					],
+					[
+						"base",
 						"BASE_DIR\tstatement"
 					],
 					[
-						"data",
-						"data_disk_size"
+						"get",
+						"get_logger\tfunction"
 					],
 					[
-						"data_disk",
-						"data_disk_count"
+						"forma",
+						"formatter\tstatement"
 					],
 					[
-						"upstream",
-						"upstream_name"
+						"set",
+						"setFormatter\tfunction"
 					],
 					[
-						"config",
-						"config_item\tparam"
+						"log",
+						"LOG_DIR"
 					],
 					[
-						"upstre",
-						"upstream_name"
+						"we",
+						"wechat_notification"
 					],
 					[
-						"defa",
-						"default_params\tparam"
+						"_prepa",
+						"_prepare_msg\tfunction"
 					],
 					[
-						"confi",
-						"config_item\tparam"
+						"Eex",
+						"Exception\tclass"
 					],
-					[
-						"create",
-						"create_api"
-					],
-					[
-						"crea",
-						"create_plugin"
-					],
-					[
-						"uv-profile",
-						"uv-profile-2"
-					],
-					[
-						"upstream_",
-						"upstream_target"
-					],
-					[
-						"intern",
-						"internal_lb_id"
-					],
-					[
-						"public",
-						"public_lb_id"
-					],
-					[
-						"lb_",
-						"lb_private_ip"
-					],
-					[
-						"lb_pool",
-						"lb_pool_id"
-					],
-					[
-						"promet",
-						"prometheus_lb"
-					],
-					[
-						"ext",
-						"ext_vol_type"
-					],
-					[
-						"ecf-",
-						"ecf-prod-vnet"
-					],
-					[
-						"resou",
-						"resource_group_name"
-					],
-					[
-						"cloud",
-						"cloud_location"
-					],
-					[
-						"nginx",
-						"nginx_enabled"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"ter",
-						"Terminality: Browse Commands..."
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"con",
-						"ConEmu: Open current file folder"
-					],
-					[
-						"git",
-						"Git: Status"
-					],
-					[
-						"git add",
-						"Git: Quick Add"
-					],
-					[
-						"term",
-						"Terminal: Open"
-					],
-					[
-						"boxy",
-						"Boxy Theme: Preferences"
-					],
-					[
-						"boxy ",
-						"Boxy Theme: Preferences"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"theme",
-						"Material Theme: Activate theme"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 157.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager.yml.j2",
-				"/C/Users/eemnorr/ecf-deployment-solution/bin/dl_code_generate_tf.sh",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/2.0.0/TerraBuilder.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/TerraBuilder.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/kubernetes/bin/deploy.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/ConfigManager.py",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/ecf_init.py",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/vm.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/templates/kong",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/templates/kong.service",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/distribute_config.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/kong_install.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/ecf_hosts_alert_rules.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/elasticsearch_hosts_alert_rules.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/defaults/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/kong.py",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/dev.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default (Windows).sublime-keymap",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/grafana-nginx.conf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/outputs.tf",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/refer.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/templates/azure_tfvars.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/variables.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/subnet.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/outputs.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/variables.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/prometheus/terraform/azure/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/main.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-single-internal.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-multi-internal.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-external.yml",
-				"/C/Users/eemnorr/Desktop/des-api.json",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/nsg_rules.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/tasks/keycloak_install.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/outputs.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/modules/cv-bastion/subnet.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/common/ansible/roles/common/defaults/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/common/ansible/roles/zookeeper/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/common/terraform/azure/lb-def/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/common/terraform/azure/lb-def/outputs.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/common/terraform/azure/lb-def/variables.tf",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
-				"/C/cmder/config/user-aliases.cmd",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/grafana_install.yml",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
-			],
-			"find":
-			{
-				"height": 28.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"BASE_DIR",
-					"'",
-					"kong",
-					"postcore",
-					"defined",
-					"simu",
-					"management",
-					"113",
-					"    plugin:\n      - name: basic-auth\n        config.hide_credentials: True",
-					"plugin:",
-					"core_subnet",
-					"profile"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 28.0
-			},
-			"input":
-			{
-				"height": 42.0
-			},
-			"menu_visible": true,
-			"output.autopep8":
-			{
-				"height": 130.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 52.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 357.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 574.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 267.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1902.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"C",
 						"CRED\tstatement"
@@ -436,14 +186,6 @@
 						"ansible\tstatement"
 					],
 					[
-						"log",
-						"logging\tmodule"
-					],
-					[
-						"send",
-						"sendto\tstatement"
-					],
-					[
 						"Comm",
 						"CommandType\tparam"
 					],
@@ -494,10 +236,6 @@
 					[
 						"alert",
 						"alert_scripts"
-					],
-					[
-						"notif",
-						"notify_flag\tstatement"
 					],
 					[
 						"proxy",
@@ -637,10 +375,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -727,28 +461,102 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/Users/eemnorr/ecf-infrastructure-codes",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles",
-				"/C/Users/eemnorr/Desktop/ansible_master"
-			],
 			"file_history":
 			[
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/node_exporter/templates/node_exporter",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/cmdb/common.yaml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/standard.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/vm.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/inventory.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/main.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/alertmanager.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/eea-app.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/eea-web.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/files/alert_scripts_msite/notification_server.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/notification_server.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/prometheus",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/templates/regionserver_hosts.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/templates/hbasemaster_hosts.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/eea_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/tasks/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/prometheus_install.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/distribute_configs.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/elasticsearch_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/postgres_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/redis_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/dispatcher_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/files/alert_scripts_msite/config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/config.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alert-script.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/notification.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/alert_scripts.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/alert-script.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/main.tf",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/dev.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/Desktop/prometheus-openstack-exporter",
+				"/C/Users/eemnorr/Desktop/spider.py",
+				"/C/Users/eemnorr/Downloads/ECF-Perf-Lab-openrc (1).sh",
+				"/C/Users/eemnorr/Downloads/ECF-Perf-Lab-openrc.sh",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/bin/DynamicInventory.py",
+				"/C/Users/eemnorr/ecf-devops-common/libs/python/cv_cmdb/cmdb_utils.py",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/nsg_rules.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus.service",
+				"/C/Users/eemnorr/Desktop/res.txt",
+				"/C/Users/eemnorr/ecf-continuous-deployment/app-deployment/bin/consul_exporter.py",
+				"/C/Users/eemnorr/ecf-devops-common/libs/python/cv_cmdb/cmdb_core.py",
 				"/C/Users/eemnorr/Desktop/ansible_master/ansible_master.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/variables.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/asg.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/main.tf",
+				"/C/Users/eemnorr/ecf-devops-common/terraform/azure/vm/one-nic/multi-vm/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/central-logging/terraform/azure/main.tf",
+				"/C/Users/eemnorr/ecf-devops-tools/tools/Python/test_ldap/README.md",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter.service6",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/alertmanager",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/ecf_hosts_alert_rules.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/consul.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/sg_rules.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/router.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/main.tf",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/variables.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/templates/openstack_tfvars.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/consul.service.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/tasks/distribute_config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.service.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/acl.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/acl.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/distribute_config.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/components.yaml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/config.json.j2",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/infra.yaml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/config.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/templates/realm-export.json.j2",
+				"/C/Users/eemnorr/Downloads/realm-export (1).json",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/tasks/enable_tls.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/certs.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/conf/bastion.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/logger.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/ConfigManager.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/node_exporter/templates/node_exporter",
 				"/C/Users/eemnorr/Desktop/ansible_master/sshclient.py",
 				"/C/Users/eemnorr/Desktop/ansible_master/lib/MySSHClient.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/defaults/main.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/cm-consul.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/acl.json.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/distribute_config.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/acl.json.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.json.j2",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/nsg_rules.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/main.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/outputs.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/outputs.tf",
@@ -757,19 +565,12 @@
 				"/C/Users/eemnorr/ecf-lab-info/configurations/refer.ecf.cloud/site/site.yml",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/vm.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/nsg_rules.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/main.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/variables.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/templates/azure_tfvars.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/templates/openstack_tfvars.j2",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/modules/cv-bastion/subnet.tf",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/inventory.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/outputs.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/defaults/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.service.j2",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/install.yaml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/install_consul.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/components.yaml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/enable_tls.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/bin/consul_custom.py",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/common.yaml",
@@ -777,94 +578,794 @@
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/main.yml",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/cluster.yaml",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/security.yaml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/config.yml.j2",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul_env.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/main.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/outputs.tf",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/variables.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/sg_rules.tf",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/infra.yaml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/defaults/main.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/config/base.yaml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/config/infra.yaml",
 				"/C/Users/eemnorr/ecf-devops-common/terraform/openstack/vm/one-nic/multi-vm/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/components/central-logging/config/base.yaml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/vm.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/ecf_hosts_alert_rules.yml",
 				"/C/Users/eemnorr/Desktop/ansible_master/config.conf",
 				"/C/Users/eemnorr/Desktop/ansible_master/logger.py",
 				"/C/Users/eemnorr/Desktop/ansible_master.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/main.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/notification_server.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/config.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager.yml.j2",
-				"/C/Users/eemnorr/Desktop/python3oop.py",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/nsg_rules.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/ecf_hosts.yml.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus.yml.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/ConfigManager.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/conf/bastion.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/distribute_configs.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/eea_exporter.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/hbasemaster_hosts.yml.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/regionserver_hosts.yml.j2",
-				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/hbase_master_hosts.yml.j2",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/alert_scripts.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-outbound/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-outbound/subnet.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/notification.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/requirements.txt",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/node_exporter/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/email.html",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/email.html",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alert-script.service",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alert-script",
-				"/C/Users/eemnorr/douban-renting-house-tool/douban_renting_house.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/zabbix/files/alert_scripts/notification.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/common/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/node_exporter/defaults/main.yml",
-				"/C/Users/eemnorr/Desktop/notification_server.py",
-				"/C/Users/eemnorr/Desktop/email.html",
-				"/C/Users/eemnorr/Desktop/test.html",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts/configs.yml",
-				"/C/Users/eemnorr/Desktop/test_mail.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/node_exporter.yml",
-				"/C/Users/eemnorr/ecf-deployment-solution/bin/dl_code_generate_tf.sh",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/postfix/templates/main.cf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-external.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-operation/subnet.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/postfix.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/postfix/tasks/distribute_config.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/2.0.0/TerraBuilder.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/TerraBuilder.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/kubernetes/bin/deploy.py",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/eemnorr/Desktop/python3oop.py"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"load_yml",
+					"tlm",
+					"operation",
+					"logging",
+					"instance_label",
+					"fronten",
+					"datastore-cassandra",
+					"@",
+					"dispatcher-connector",
+					"cassandra",
+					"remove",
+					"zabbix",
+					"azurerm_network_interface_backend_address_pool_association",
+					"ldif",
+					"StringIO",
+					"uv",
+					"ecf_admin",
+					"admin",
+					"{{",
+					"outbound",
+					"_generate_certs",
+					"notify_logger",
+					"logging",
+					"5100",
+					"ops",
+					"oam",
+					"graphite",
+					"oam",
+					"zabbix",
+					"git_code_branch",
+					"zabbix",
+					"zabbix_hosts_private_ip_address",
+					"zabbix",
+					"zbx",
+					"zabbix",
+					"devops",
+					"etcd_vm",
+					"_load_cert_class",
+					"'",
+					"connect",
+					"json",
+					"test_dns",
+					"9218",
+					"outbound_proxy",
+					"outbound",
+					"prometheus",
+					"core_subnet",
+					"profile",
+					"eea",
+					"eea_sim",
+					"34.39",
+					"34.38",
+					"34.37",
+					"kafka",
+					"mail",
+					"kafka",
+					"kong-dashboard",
+					"BASE_DIR",
+					"'",
+					"kong",
+					"postcore",
+					"defined",
+					"simu",
+					"management",
+					"113",
+					"    plugin:\n      - name: basic-auth\n        config.hide_credentials: True",
+					"plugin:",
+					"core_subnet",
+					"profile"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 357.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 574.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1346.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"run_",
+						"run_playbook\tfunction"
+					],
+					[
+						"init",
+						"init_stage"
+					],
+					[
+						"ssh",
+						"ssh-keys"
+					],
+					[
+						"ansible_ssh",
+						"ansible_ssh_private_key_file"
+					],
+					[
+						"keycloak",
+						"keycloak_cluster"
+					],
+					[
+						"In",
+						"Internet"
+					],
+					[
+						"Cde",
+						"CodeManager\tclass"
+					],
+					[
+						"build",
+						"buildProvider"
+					],
+					[
+						"Terr",
+						"TerraBuilder\tclass"
+					],
+					[
+						"resou",
+						"resource_group\tclass"
+					],
+					[
+						"load",
+						"load_yaml\tfunction"
+					],
+					[
+						"sms",
+						"sms_msg\tstatement"
+					],
+					[
+						"webho",
+						"webhook\tstatement"
+					],
+					[
+						"W",
+						"WebHook\tclass"
+					],
+					[
+						"parse",
+						"parse_args\tfunction"
+					],
+					[
+						"read",
+						"readlines\tfunction"
+					],
+					[
+						"file",
+						"file_path\tparam"
+					],
+					[
+						"send",
+						"send_wechat\tfunction"
+					],
+					[
+						"notify",
+						"notify_flag\tstatement"
+					],
+					[
+						"notif",
+						"notify_logger"
+					],
+					[
+						"wecha",
+						"wechat_url"
+					],
+					[
+						"find",
+						"find_all\tfunction"
+					],
+					[
+						"invento",
+						"inventory_dict\tstatement"
+					],
+					[
+						"inven",
+						"inventory_dict\tstatement"
+					],
+					[
+						"_load",
+						"_load_consul_key\tfunction"
+					],
+					[
+						"Con",
+						"CONSUL_DEFAULT_KEY_PREFIX\tstatement"
+					],
+					[
+						"print",
+						"print_inventory\tfunction"
+					],
+					[
+						"noti",
+						"notify_logger\tstatement"
+					],
+					[
+						"notfi",
+						"notify_logger\tstatement"
+					],
+					[
+						"base",
+						"BASE_DIR\tstatement"
+					],
+					[
+						"get",
+						"get_logger\tfunction"
+					],
+					[
+						"forma",
+						"formatter\tstatement"
+					],
+					[
+						"set",
+						"setFormatter\tfunction"
+					],
+					[
+						"log",
+						"LOG_DIR"
+					],
+					[
+						"we",
+						"wechat_notification"
+					],
+					[
+						"_prepa",
+						"_prepare_msg\tfunction"
+					],
+					[
+						"Eex",
+						"Exception\tclass"
+					],
+					[
+						"C",
+						"CRED\tstatement"
+					],
+					[
+						"cre",
+						"CRED\tstatement"
+					],
+					[
+						"variable",
+						"variableE\tvariable (empty)"
+					],
+					[
+						"cert",
+						"certs_dir\tparam"
+					],
+					[
+						"info",
+						"info\tfunction"
+					],
+					[
+						"stderr",
+						"stderr_iter\tstatement"
+					],
+					[
+						"stdou",
+						"stdout_iter\tstatement"
+					],
+					[
+						"iter",
+						"itertools\tmodule"
+					],
+					[
+						"consul_floa",
+						"consul_floating_ip"
+					],
+					[
+						"openstack",
+						"openstack_compute_floatingip_associate"
+					],
+					[
+						"consul_",
+						"consul_count"
+					],
+					[
+						"ansib",
+						"ansible\tstatement"
+					],
+					[
+						"Comm",
+						"CommandType\tparam"
+					],
+					[
+						"comma",
+						"command_map"
+					],
+					[
+						"Command",
+						"CommandType"
+					],
+					[
+						"Inven",
+						"INVENTORY_PATH\tstatement"
+					],
+					[
+						"ansi",
+						"AnsiblePlayBook"
+					],
+					[
+						"ar",
+						"args_init\tfunction"
+					],
+					[
+						"par",
+						"parser\tstatement"
+					],
+					[
+						"play",
+						"playbook_parser\tstatement"
+					],
+					[
+						"add_",
+						"add_argument"
+					],
+					[
+						"host",
+						"host_pattern"
+					],
+					[
+						"input",
+						"input_string\tparam"
+					],
+					[
+						"aws",
+						"aws_notification\tclass"
+					],
+					[
+						"alert",
+						"alert_scripts"
+					],
+					[
+						"proxy",
+						"proxy_server\tstatement"
+					],
+					[
+						"K",
+						"KeyError\tclass"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"Env",
+						"EnvironmentError\tclass"
+					],
+					[
+						"serv",
+						"serve_forever\tfunction"
+					],
+					[
+						"Argu",
+						"ArgumentParser\tclass"
+					],
+					[
+						"MA",
+						"MailNotifybyAPI\tfunction"
+					],
+					[
+						"A",
+						"ArgumentParser\tclass"
+					],
+					[
+						"cofnig",
+						"configs\tstatement"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"terra",
+						"terra_code"
+					],
+					[
+						"clo",
+						"cloud-user"
+					],
+					[
+						"Bas",
+						"BASE_DIR\tstatement"
+					],
+					[
+						"data",
+						"data_disk_size"
+					],
+					[
+						"data_disk",
+						"data_disk_count"
+					],
+					[
+						"upstream",
+						"upstream_name"
+					],
+					[
+						"config",
+						"config_item\tparam"
+					],
+					[
+						"upstre",
+						"upstream_name"
+					],
+					[
+						"defa",
+						"default_params\tparam"
+					],
+					[
+						"confi",
+						"config_item\tparam"
+					],
+					[
+						"create",
+						"create_api"
+					],
+					[
+						"crea",
+						"create_plugin"
+					],
+					[
+						"uv-profile",
+						"uv-profile-2"
+					],
+					[
+						"upstream_",
+						"upstream_target"
+					],
+					[
+						"intern",
+						"internal_lb_id"
+					],
+					[
+						"public",
+						"public_lb_id"
+					],
+					[
+						"lb_",
+						"lb_private_ip"
+					],
+					[
+						"lb_pool",
+						"lb_pool_id"
+					],
+					[
+						"promet",
+						"prometheus_lb"
+					],
+					[
+						"ext",
+						"ext_vol_type"
+					],
+					[
+						"ecf-",
+						"ecf-prod-vnet"
+					],
+					[
+						"cloud",
+						"cloud_location"
+					],
+					[
+						"nginx",
+						"nginx_enabled"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ter",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git add",
+						"Git: Quick Add"
+					],
+					[
+						"term",
+						"Terminal: Open"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Material Theme: Activate theme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/eemnorr/ecf-infrastructure-codes"
+			],
+			"file_history":
+			[
+				"/C/Users/eemnorr/ecf-deployment-solution/bin/lab_init",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/refer.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/Desktop/site.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/ecf_init.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/templates/kong",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/templates/kong.service",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/main.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/distribute_config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/ecf-cep/templates/prometheus.conf.j2",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/onefleetstaging.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/onefleetstaging.ecf.cloud/site/nsg_rules.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/dashboard_install.yml",
 				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/kong/tasks/kong_install.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/elasticsearch_hosts_alert_rules.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/kong.py",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/platform-service/tasks/dispatcher_initialization.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/tasks/keycloak_install.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/tasks/keycloak_initialize.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/conf/bastion.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/3.0.0/ConfigManager.py",
+				"/C/Users/eemnorr/Desktop/hosts",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/onefleetstaging.ecf.cloud/site/vm.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/keycloak/terraform/openstack/outputs.tf",
+				"/C/Users/eemnorr/keycloak/terraform/openstack/variables.tf",
+				"/C/Users/eemnorr/keycloak/terraform/openstack/main.tf",
+				"/C/Users/eemnorr/keycloak/terraform/openstack/test/main.tf",
+				"/C/Users/eemnorr/keycloak/terraform/azure/variables.tf",
+				"/C/Users/eemnorr/keycloak/terraform/azure/main.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/prometheus.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/files/ecf_hosts_alert_rules.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/gocd/files/go-agent.sh",
+				"/C/Users/eemnorr/Desktop/RTACodeManager.py",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/nsg_rules.yml",
+				"/C/Users/eemnorr/Desktop/AzureCodeManager.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/2.0.0/configManager.py",
+				"/C/Users/eemnorr/Desktop/CodeManager.py",
+				"/C/Users/eemnorr/Documents/我接收到的文件/id_rsa.pub",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/common/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/onefleetstaging.ecf.cloud/site/auth.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/ericssononefleet.ecf.cloud/site/vm.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/3.0.0/TerraBuilder.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/2.0.0/TerraBuilder.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/2.0.0/resource.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/3.0.0/utils.py",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/cmdb/common.yaml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/standard.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/pfm.ecf.cloud/site/vm.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/inventory.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/main.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/alertmanager.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/eea-app.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/eea-web.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/files/alert_scripts_msite/notification_server.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/notification_server.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/prometheus",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/templates/regionserver_hosts.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/templates/hbasemaster_hosts.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/eea_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/eea-exporter/tasks/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/prometheus_install.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/distribute_configs.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alertmanager",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/elasticsearch_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/postgres_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/redis_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/dispatcher_exporter.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/files/alert_scripts_msite/config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/config.yml.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/alert-script.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_ecf/notification.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/tasks/alert_scripts.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/alert-script.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/main.tf",
 				"/C/Users/eemnorr/ecf-lab-info/configurations/dev.ecf.cloud/site/site.yml",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
-				"/C/Users/eemnorr/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default (Windows).sublime-keymap",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/grafana-nginx.conf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/azure/1.0.0/cv-oam/subnet.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/components/prometheus/terraform/azure/main.tf",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/main.py",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-single-internal.yml",
-				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/api-gateway/config-multi-internal.yml"
+				"/C/Users/eemnorr/Desktop/prometheus-openstack-exporter",
+				"/C/Users/eemnorr/Desktop/spider.py",
+				"/C/Users/eemnorr/Downloads/ECF-Perf-Lab-openrc (1).sh",
+				"/C/Users/eemnorr/Downloads/ECF-Perf-Lab-openrc.sh",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/bin/DynamicInventory.py",
+				"/C/Users/eemnorr/ecf-devops-common/libs/python/cv_cmdb/cmdb_utils.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/templates/prometheus.service",
+				"/C/Users/eemnorr/Desktop/res.txt",
+				"/C/Users/eemnorr/ecf-continuous-deployment/app-deployment/bin/consul_exporter.py",
+				"/C/Users/eemnorr/ecf-devops-common/libs/python/cv_cmdb/cmdb_core.py",
+				"/C/Users/eemnorr/Desktop/ansible_master/ansible_master.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/variables.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/asg.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/ldap-dashboard/terraform/azure/main.tf",
+				"/C/Users/eemnorr/ecf-devops-common/terraform/azure/vm/one-nic/multi-vm/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/central-logging/terraform/azure/main.tf",
+				"/C/Users/eemnorr/ecf-devops-tools/tools/Python/test_ldap/README.md",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/outputs.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter.service",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter.service6",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/elasticsearch_exporter",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/templates/alertmanager",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus_rta/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/ecf_hosts_alert_rules.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/consul.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/terraform/openstack/sg_rules.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/router.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/main.tf",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/site/site.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.1.0/variables.tf",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/templates/openstack_tfvars.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/defaults/main.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/consul.service.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/tasks/distribute_config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/consul.service.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/acl.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/acl.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/tasks/distribute_config.yml",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/components.yaml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/components/cm-consul/ansible/roles/cm-consul/templates/config.json.j2",
+				"/C/Users/eemnorr/ecf-lab-info/configurations/des.ecf.cloud/components/cm-consul/infra.yaml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/templates/config.json.j2",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/keycloak/templates/realm-export.json.j2",
+				"/C/Users/eemnorr/Downloads/realm-export (1).json",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/cm-consul/tasks/enable_tls.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/bin/certs.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/config.yml",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/prometheus/files/alert_scripts_msite/logger.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/infrastructure/modules/openstack/0.3.0/ConfigManager.py",
+				"/C/Users/eemnorr/ecf-infrastructure-codes/site-setup/roles/node_exporter/templates/node_exporter"
 			],
 			"find":
 			{
@@ -882,6 +1383,39 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"sku",
+					"admin",
+					"lb",
+					"cep_subnet",
+					"32",
+					"traff",
+					"10.36",
+					"SSD",
+					"10.36",
+					"load_yml",
+					"tlm",
+					"operation",
+					"logging",
+					"instance_label",
+					"fronten",
+					"datastore-cassandra",
+					"@",
+					"dispatcher-connector",
+					"cassandra",
+					"remove",
+					"zabbix",
+					"azurerm_network_interface_backend_address_pool_association",
+					"ldif",
+					"StringIO",
+					"uv",
+					"ecf_admin",
+					"admin",
+					"{{",
+					"outbound",
+					"_generate_certs",
+					"notify_logger",
+					"logging",
+					"5100",
 					"ops",
 					"oam",
 					"graphite",
@@ -947,22 +1481,13 @@
 					"path": "C:\\Users\\eemnorr\\ecf-infrastructure-codes"
 				},
 				{
-					"path": "C:\\Users\\eemnorr\\ecf-continuous-deployment"
-				},
-				{
 					"path": "C:\\Users\\eemnorr\\ecf-lab-info"
 				},
 				{
+					"path": "C:\\Users\\eemnorr\\keycloak"
+				},
+				{
 					"path": "C:\\Users\\eemnorr\\ecf-deployment-solution"
-				},
-				{
-					"path": "C:\\Users\\eemnorr\\douban-renting-house-tool"
-				},
-				{
-					"path": "C:\\Users\\eemnorr\\Desktop\\ansible_master"
-				},
-				{
-					"path": "C:\\Users\\eemnorr\\ecf-devops-common"
 				}
 			],
 			"groups":
@@ -1013,7 +1538,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,767,1,1,1365",
+			"position": "0,2,3,-32000,-32000,-1,-1,972,207,193,1565",
 			"project": "",
 			"replace":
 			{
@@ -1045,7 +1570,7 @@
 				"selected_items":
 				[
 				],
-				"width": 685.0
+				"width": 574.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -1060,7 +1585,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 15,
+			"window_id": 34,
 			"workspace_name": ""
 		}
 	],
